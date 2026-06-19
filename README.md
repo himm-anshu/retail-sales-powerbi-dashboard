@@ -67,7 +67,14 @@ Built an interactive dashboard to visualize key business metrics and trends.
 - Python (Pandas) for Data Cleaning  
 - SQL for Data Validation & Analysis  
 - Power BI for Data Visualization  
-- Google Colab for Python Execution  
+- Google Colab for Python Execution
+
+- ## Project Structure
+- `data_cleaning.ipynb` — Python data cleaning
+- `cleaned_retail_sales.csv` — Cleaned dataset
+- `retails_analysis.sql` — SQL validation & analysis queries
+- `retail sales analysis dashboard.pbix` — Power BI dashboard file
+- `Dashboard_Preview.png` — Dashboard screenshot
 
 ---
 
