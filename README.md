@@ -1,5 +1,7 @@
 # 📊 Retail Sales Power BI Dashboard
 
+![Dashboard Preview](powerbi/Dashboard_Preview.png)
+
 ## 🧠 Project Overview
 This project is an end-to-end retail sales analytics project where I performed data cleaning in Python, validated data using SQL, and built an interactive Power BI dashboard to extract business insights.
 
@@ -55,12 +57,14 @@ Built an interactive dashboard to visualize key business metrics and trends.
 
 ---
 
-## 📊 Key Insights
-- Identified monthly revenue trends and seasonal patterns  
-- Found top-performing cities based on revenue and profit  
-- Analyzed product-wise contribution to total sales  
-- Evaluated profitability differences across locations  
+📊 Key Insights
 
+- Generated a Total Revenue of ₹18,76,192 with a Total Profit of ₹9,98,578.77, reflecting a strong Profit Margin of 53.22%
+- Average Order Value (AOV) stood at ₹5,391.36
+- Delhi emerged as the top-performing city, generating the highest revenue — nearly double that of the next closest city (Chennai)
+- Delhi also led in profit margin, followed by Mumbai, Chennai, and Kolkata
+- Tablets were the highest revenue-generating product, followed closely by Laptops, Phones, and Printers
+- Monthly revenue showed clear fluctuations with a peak around month 10–11, indicating seasonal demand spikes
 ---
 
 ## 🛠 Tools & Technologies
