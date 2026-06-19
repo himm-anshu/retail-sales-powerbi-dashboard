@@ -72,14 +72,21 @@ Built an interactive dashboard to visualize key business metrics and trends.
 - SQL for Data Validation & Analysis  
 - Power BI for Data Visualization  
 - Google Colab for Python Execution
+---
 
-- ## Project Structure
-- `data_cleaning.ipynb` — Python data cleaning
-- `cleaned_retail_sales.csv` — Cleaned dataset
-- `retails_analysis.sql` — SQL validation & analysis queries
-- `retail sales analysis dashboard.pbix` — Power BI dashboard file
-- `Dashboard_Preview.png` — Dashboard screenshot
+## Project Structure
+- `python/data_cleaning.ipynb` — Python data cleaning
+- `data/cleaned_retail_sales.csv` — Cleaned dataset
+- `sql/retails_analysis.sql` — SQL validation & analysis queries
+- `powerbi/retail sales analysis dashboard.pbix` — Power BI dashboard file
+- `powerbi/Dashboard_Preview.png` — Dashboard screenshot
+---
 
+## How to Reproduce
+1. Clone or download this repository
+2. Open `python/data_cleaning.ipynb` in Jupyter Notebook or Google Colab to view the data cleaning steps
+3. Import `data/cleaned_retail_sales.csv` into your SQL tool and run `sql/retails_analysis.sql` to reproduce the validation queries
+4. Open `powerbi/retail sales analysis dashboard.pbix` in Power BI Desktop to explore the interactive dashboard
 ---
 
 ## 🚀 Key Learning Outcome
